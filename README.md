@@ -145,7 +145,7 @@ compileQuerydsl {
 tasks.named('test') {
 	useJUnitPlatform()
 }
-
+```
 ##  QuaryDSL장점
 * Queary를 짤때 자바에서 클래스 불러 오듯이 짤 수가 있다
 * 컴파일 시점에서 Queary문의 오류를 잡아낼수 있다.
